@@ -40,7 +40,7 @@
 
 ## Источники
 
-- Шенк Ф. Б. *Поезд в современность. Мобильность и социальное пространство России в век железных дорог*. М.: Новое литературное обозрение, 2016. Раздел 2.2, с. 165–169. [Сведения о книге на сайте Европейского университета в Санкт-Петербурге](https://test.eusp.org/news/prezentatsiya-knigi-poezd-v-sovremennost-mobilnost-i-sotsialnoe-prostranstvo-rossii-v-vek-zheleznykh-dorog).
+- Шенк Ф. Б. *Поезд в современность. Мобильность и социальное пространство России в век железных дорог*. М.: Новое литературное обозрение, 2016. Раздел 2.2, с. 165–169. .
 - [Декрет СНК РСФСР от 8 февраля 1919 года о введении исчисления времени по системе часовых поясов](https://tehnorma.ru/doc_ussrperiod/textussr/ussr_441.htm); [декрет от 24 июня 1919 года о времени движения поездов и телеграмм](https://www.istmat.org/node/38108); [постановление СНК СССР от 15 марта 1924 года](https://tehnorma.ru/doc_ussrperiod/textussr/ussr_1984.htm).
 - [Минтранс России: переход к указанию местного времени с 1 августа 2018 года](https://mintrans.gov.ru/press-center/branch-news/615).
 - [Smithsonian National Museum of American History, *On Time: Time Zones*](https://americanhistory.si.edu/ontime/synchronizing/zones.html).
